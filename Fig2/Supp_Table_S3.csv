@@ -1,0 +1,19 @@
+"Gene Model","Chromosome","Start","End","Strand","Probable function of protein product","Amino acid (AA) changes","Note"
+"KWMTBOMO01768",4,4157889,4159644,"+","Antigen",NA,NA
+"KWMTBOMO01770 (Wnt9)",4,4195389,4196752,"+","Wnt pathway","F148Y, F305L",NA
+"KWMTBOMO01771 (Wnt1)",4,4247639,4267866,"+","Wnt pathway","None",NA
+"KWMTBOMO01772 (Wnt6)",4,4278765,4294878,"-","Wnt pathway","S131P,N235S","B. mori predicted protein is 7 AA longer"
+"KWMTBOMO01773 (Wnt10)",4,4391139,4405848,"+","Wnt pathway","None",NA
+"KWMTBOMO01774",4,4411879,4421881,"+","Serine/threonine-protein kinase","Q18R,D39G,P40L,I41L,F42Q,R43P,S76T,V82I,V396I,S529A,S531C,L576I,S713T,S1251T,T1342I,A1360T,I1521T,L1542F",NA
+"KWMTBOMO01775",4,4425863,4430398,"-","BTB-ZF transcription factor","E124D,S131P,L156V,K170N,S244N",NA
+"KWMTBOMO01776",4,4433259,4440042,"+","Lipase","Y14S,K32R,L234I",NA
+"KWMTBOMO01777",4,4454559,4458633,"+","Not known","N239D,Q353E,N513I,L547P,I599T,K605R,D616N,V669I,F680S,N719T,-737P,-738L,-739N,L740N,N750K,T752A,A819T,Y822H,S1033N,E1044D,F1045L","B. mori predicted protein is 4 AA longer"
+"KWMTBOMO01778",4,4464031,4470348,"-","Integrin subunit","E352G,L419M,S493A",NA
+"KWMTBOMO01779",4,4471579,4474782,"+","Integrin subunit","V154L,Y194H,I258F",NA
+"KWMTBOMO01780",4,4478289,4480827,"+","Integrin subunit","D12E",NA
+"KWMTBOMO01781",4,4491986,4494988,"-","Transposon","None","Not tested for allele-specific expression analysis"
+"KWMTBOMO01782",4,4500490,4502788,"-","Transposon","Exonerated protein is truncated (in which species?)","Not tested for allele-specific expression analysis"
+"KWMTBOMO01783",4,4510569,4511515,"+","Transmembrane receptor for Semaphorin ligands","None","No SNP between the two species"
+"KWMTBOMO01784",4,4522289,4549688,"+","Integrin subunit","D20E,I26L,E61Q,E141Q,R151K,K154Q,N163Y,I219V","B. mori predicted protein is 199 AA longer"
+"KWMTBOMO01785",4,4556781,4641308,"-","Serine/threonine-protein kinase","V172G,S173T,E174K,I175L,F176W","B. mori predicted protein is 431 AA longer"
+"Amino acid (AA) changes are listed as B. mandarina state followed by B. mori state.",NA,NA,NA,NA,NA,NA,NA
